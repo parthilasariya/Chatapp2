@@ -1,12 +1,7 @@
 || George Brown College ||
 || Full Stack Development 2 ||
 | Chat Application project |
-Submitted by:
 
-Parth Govindbhai Ilasariya
-Student ID: 101393950 ||
-Suyash Chordia
-Student ID - 101336884
 
 
 
